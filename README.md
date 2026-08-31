@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:FCE4EC,50:F8BBD0,100:FFFFFF&text=Esha%20Perisetla&fontAlign=50&fontAlignY=40&fontSize=45&fontColor=6D4C5B&desc=UX%20Graduate%20Student%20|%20Aspiring%20Product%20Designer&descAlignY=60&descColor=6D4C5B" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:F8BBD0,50:F48FB1,100:EC407A&text=Esha%20Perisetla&fontAlign=50&fontAlignY=40&fontSize=45&fontColor=FFFFFF&desc=UX%20Graduate%20Student%20|%20Product%20Designer&descAlignY=60&descColor=FFFFFF" />
 </p>
 
 ## About Me
