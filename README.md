@@ -1,45 +1,32 @@
-## Hi there 👋
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm Esha Perisetla! 👋
 
 ## About Me
 
-I'm currently studying [your major/program] and I'm working toward a career in [career goal].
+I'm currently pursuing a **Master of Science in User Experience** at **Arizona State University**. I'm interested in user research, data analysis, and UX/UI design, and I enjoy creating digital experiences that are intuitive, accessible, and user-centered.
 
-I enjoy learning about:
-- Web Development
-- Programming
-- UI/UX Design
-- Problem Solving
+After graduation, I hope to work as a **UI/UX Designer or Product Designer**, where I can combine research, design, and technology to create products that solve real-world problems.
+
+I'm currently learning more about HTML, CSS, Git, GitHub, and front-end development while continuing to strengthen my UX design skills.
 
 ## Technical Skills
 
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
-- Python (if applicable)
-- C++ (if applicable)
+- **UX:** User Research, Usability Testing, Wireframing, Prototyping, Accessibility, Information Architecture
+- **Design:** UX Design, UI Design, Interaction Design, Visual Design
+- **Tools:** Figma, Adobe Photoshop, Illustrator, InDesign, Miro, Qualtrics, Tableau, SPSS
+- **Programming:** HTML/CSS, Python 
 
 ## Hobbies
 
-- 🎮 Gaming
-- 🎵 Listening to music
-- 📚 Learning new technologies
-- ☕ Coffee
-- 📷 Photography
-
-## Connect With Me
-
-- LinkedIn: https://linkedin.com/in/yourprofile
-- CodePen: https://codepen.io/yourusername
-- Behance: https://behance.net/yourusername
+Outside of school, I enjoy creating product review content on social media, playing and testing new video games, traveling and photography.
 
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
 
-## Thanks for Visiting!
+## Connect With Me 
 
+- GitHub: https://github.com/eshap17
+- LinkedIn: https://linkedin.com/in/esha-perisetla
 
 <!--
 **eshap17/eshap17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
