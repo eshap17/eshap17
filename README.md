@@ -19,9 +19,9 @@ I'm currently learning more about HTML, CSS, Git, GitHub, and front-end developm
 
 Outside of school, I enjoy creating product review content on social media, playing and testing new video games, traveling and photography.
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
+![Esha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eshap17&show_icons=true&theme=radical)
 
 ## Connect With Me 
 
