@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Esha%20Perisetla&fontAlign=50&fontAlignY=40&fontSize=45&desc=UX%20Graduate%20Student%20|%20Product%20Design%20Enthusiast&descAlignY=60" />
+</p>
+
 # Hi, I'm Esha Perisetla! 👋
 
 ## About Me
@@ -18,10 +22,6 @@ I'm currently learning more about HTML, CSS, Git, GitHub, and front-end developm
 ## Hobbies
 
 Outside of school, I enjoy creating product review content on social media, playing and testing new video games, traveling and photography.
-
-## 📊 GitHub Stats
-
-![Esha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eshap17&show_icons=true&theme=radical)
 
 ## Connect With Me 
 
